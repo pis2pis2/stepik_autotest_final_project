@@ -1,2 +1,2 @@
-# stepik_final_project
-stepik_final_project
+# stepik_autotest_final_project
+stepik_autotest_final_project
